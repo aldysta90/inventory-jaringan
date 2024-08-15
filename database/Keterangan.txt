@@ -1,0 +1,5 @@
+Nama database sesuaikan dengan nama filenya .
+
+Indotory.sql -> Berupa database dengan data dummy (data contoh), pakai ini untuk mencoba aplikasi
+
+db_kosong.sql -> Berupa database dengan data kosong siap pakai, pakai ini jika mau input data toko anda
