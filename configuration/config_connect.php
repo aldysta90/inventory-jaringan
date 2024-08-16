@@ -2,11 +2,11 @@
 
 error_reporting(E_ALL ^ E_DEPRECATED);
 $servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "inventori";
+$username = "u249561804_admin";
+$password = "Bismillah15(*)";
+$dbname = "u249561804_inventori";
 
-$koneksi = mysqli_connect('localhost', 'root', '');
+$koneksi = mysqli_connect('localhost', 'u249561804_admin', 'Bismillah15(*)');
 $db = mysqli_select_db($koneksi, $dbname);
 
 // Create connection
